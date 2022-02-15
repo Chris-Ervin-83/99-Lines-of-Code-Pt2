@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(209, 125, 29, 0.507);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1 { 
+    color: rgb(19, 146, 76);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.friend { 
+    background-color: #bfadffc7;
+    text-align: center;
+}
+
+.friend > h3 { 
+    text-transform: uppercase;
+}
+
+.container { 
+    text-align: center;
+}
